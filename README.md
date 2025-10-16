@@ -1,4 +1,4 @@
-Fullstack Chat & Video Calling App
+Video-Call-Chat App
 
 live chat:https://video-call-chat-5jy0.onrender.com
 
